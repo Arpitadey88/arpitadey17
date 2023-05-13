@@ -1,4 +1,4 @@
-![I am Frontend Developer](https://media.licdn.com/dms/image/D5622AQFMBsJff_YhkQ/feedshare-shrink_1280/0/1683946413465?e=1686787200&v=beta&t=gGRZ9kjlD9GzSY2XJsOLM-S845w6Q2MdS0IwWKHxMaM)
+![I am Frontend Developer](https://arpita-portfolio-3a94a.web.app/static/media/mProfile.94b662a4.jpg)
 ## Hi there 👋, My name is Arpita Dey
 ### I am Frontend Developer
 
