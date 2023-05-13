@@ -1,6 +1,6 @@
-(https://media.licdn.com/dms/image/D5622AQFMBsJff_YhkQ/feedshare-shrink_1280/0/1683946413465?e=1686787200&v=beta&t=gGRZ9kjlD9GzSY2XJsOLM-S845w6Q2MdS0IwWKHxMaM)
+![I am Frontend Developer](https://media.licdn.com/dms/image/D5622AQFMBsJff_YhkQ/feedshare-shrink_1280/0/1683946413465?e=1686787200&v=beta&t=gGRZ9kjlD9GzSY2XJsOLM-S845w6Q2MdS0IwWKHxMaM)
 ## Hi there 👋, My name is Arpita Dey
-#### I am Frontend Developer
+### I am Frontend Developer
 
 I'm a web designer & Front-end developer. My technical expertise includes work with HTML5, CSS3, Tailwind, JavaScript/ES6, React.js, Next.js, Firebase Authentication, Node.js, MongoDB, and Express.js. On a personal level, I am a result-oriented, self-driven, hard-working, fast learner, constantly seeking to improve my skills, and am fully aware of the latest Front-end Development Tools. I have done graduation in Computer Science and Engineering. It's been 1+ year, I'm working as a Frontend Developer.
 
